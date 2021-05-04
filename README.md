@@ -1,4 +1,4 @@
-# vue-people-manager-2
+# vue-people-manager
 
 ## Project setup
 ```
